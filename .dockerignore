@@ -1,0 +1,6 @@
+./geocoder-api/node_modules
+./geocoder-api/npm-debug.log
+./geocoder-api/swagger-codegen-ignore
+./geocoder-api/.git
+./geocoder-api/geocoder.yaml
+./geocoder-api/README.md
